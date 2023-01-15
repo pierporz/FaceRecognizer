@@ -12,6 +12,7 @@ This app is a simple program that allows you to select an image and detect the n
 This application requires the following Python libraries:
 * opencv-python
 * pillow
+
 You can install these libraries by running the following command:
 
 ` ` ` pip install -r requirements.txt ` ` ` 
