@@ -15,7 +15,7 @@ This application requires the following Python libraries:
 
 You can install these libraries by running the following command:
 
-` ` ` pip install -r requirements.txt ` ` ` 
+```pip install -r requirements.txt```
 
 ## Usage
 1. Run the script using main.py
